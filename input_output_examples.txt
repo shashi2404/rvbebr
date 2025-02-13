@@ -1,0 +1,63 @@
+##PROBLEM 1
+
+###Sample Input :
+Enter a string: Hello World 2024!
+
+###Sample Output :
+Vowels: 3
+Consonants: 7
+Digits: 4
+Special Characters: 3
+
+
+##PROBLEM 2
+###Sample Input:
+
+Enter the number of rows for Matrix 1:
+2
+Enter the number of columns for Matrix 1:
+2
+Enter the elements of Matrix 1:
+1
+2
+3
+4
+
+Enter the number of rows for Matrix 2:
+2
+Enter the number of columns for Matrix 2:
+2
+Enter the elements of Matrix 2:
+5
+6
+7
+8
+
+###Sample Output:
+
+Addition:
+6 8
+10 12
+
+Subtraction:
+-4 -4
+-4 -4
+
+Multiplication:
+19 22
+43 50
+
+##PROBLEM 3
+###Sample Input:
+
+Create Account:
+Name: Alice Johnson
+Account Number: 54321
+Initial Balance: 3000
+
+Deposit: 1200
+Withdraw: 2500
+
+###Sample Input:
+Deposit successful! Current Balance: 4200
+Withdrawal successful! Current Balance: 1700
